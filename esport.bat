@@ -18,8 +18,6 @@ set /p q="Enter a quality : "
 echo "Stream -> %s% quality -> %q%"
 start "stream %s% en %q%" %PATH_STREAMLINK% twitch.tv/%s% %q%
 set /p EXIT="Want leave ? Type exit "
-echo:
-echo %EXIT%
 if "%EXIT%"=="exit" goto end
 goto boucle
 :end
