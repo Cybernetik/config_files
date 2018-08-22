@@ -26,4 +26,14 @@
 # Thème :
 
 - [1337](https://github.com/MarkMichos/1337-Scheme)
+- [Agila](https://github.com/arvi/Agila-Theme)
+- [ayu](https://github.com/dempfi/ayu)
+- [material](https://github.com/equinusocio/material-theme)
+- [Materialize](https://github.com/saadq/Materialize)
+- [Dracula](https://github.com/dracula/sublime)
 - Pour en trouver d'autres : [Colorsublime](https://colorsublime.github.io)
+
+### Bonus
+- [material white panels](https://github.com/equinusocio/material-theme-white-panels)
+- [Materialize appbar](https://github.com/saadq/Materialize-Appbar)
+- [Materialize white panels](https://github.com/saadq/Materialize-White-Panels)
