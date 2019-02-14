@@ -4,6 +4,17 @@ REM Cmd window name
 @title eSport stream
 REM PATH_STREAMLINK="Your path to streamlink executable"
 set PATH_STREAMLINK="C:\Program Files (x86)\Streamlink\bin\streamlink.exe"
+
+:maude
+echo "1 - YT with quality to define"
+echo "2 - YT without quality to define"
+echo "3 - TW with quality to define"
+echo "4 - TW without quality to define"
+set /p m="Choose mode :"
+if "%m%"=="1" goto ytq
+goto maude
+:ytq
+
 :boucle
 REM A list of the channels you often watch to copy paste
 echo "ESL        -> ESL_CSGO esl_france esl_csgo_fr esl_lol esl_lol_fr esl_dota2 esl_sc2"
