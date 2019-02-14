@@ -7,6 +7,7 @@
 - Hide Fixed Elements
 - I don't care about cookies *Obligatoire depuis la RGPD*
 - NoScript
+- Minimal *Excellent si vous n'avez pas de script pour améliorer certains gros sites web comme YT, FB...*
 
 ### Dev
 
