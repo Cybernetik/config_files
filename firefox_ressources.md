@@ -17,6 +17,7 @@
 - User-Agent Switcher
 - WCAG Contrast checker
 - FoxyProxy Standard
+- Certainly Something (Certificate Viewer)
 
 ### Script / Automatisation
 
@@ -29,6 +30,7 @@
 - OneTab
 - Tree Style Tab
 - Tab Counter
+- Firefox Multi-Account Containers
 
 ### Favori
 
