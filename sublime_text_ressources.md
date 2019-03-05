@@ -5,6 +5,7 @@
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
 - [Emmet](https://github.com/sergeche/emmet-sublime)
 - [FindDoc](https://github.com/zckrs/sublime_findDoc)
+- [Minify](https://github.com/tssajo/Minify)
 ### Git
 - [GitGutter](https://github.com/jisaacks/GitGutter)
 ### Commentaires
@@ -18,6 +19,7 @@
 - [A File Icon](https://github.com/ihodev/a-file-icon)
 ### Inutile donc indispensable ! :grin:
 - [GhostText](https://github.com/GhostText/GhostText)
+- [HexViewer](https://github.com/facelessuser/HexViewer)
 
 # Font :
 
