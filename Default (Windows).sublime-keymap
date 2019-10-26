@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+f12"], "command": "reindent" },
+	
+]

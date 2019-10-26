@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/1337 Color Scheme/1337.tmTheme",
+	"font_face": "Fira Code",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true
+}
