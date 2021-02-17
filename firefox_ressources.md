@@ -8,6 +8,13 @@
 - I don't care about cookies *Obligatoire depuis la RGPD*
 - NoScript
 - Minimal *Excellent si vous n'avez pas de script pour améliorer certains gros sites web comme YT, FB...*
+- Buster: Captcha Solver for Humans
+
+### Tweaks FF
+
+- Tab Counter
+- Flagfox
+- Envify
 
 ### Dev
 
@@ -18,12 +25,18 @@
 - WCAG Contrast checker
 - FoxyProxy Standard
 - Certainly Something (Certificate Viewer)
+- WhatFont
+- Font Finder
+- Measure-it
+- Let's get color blind
+- A11Y - color blindness empathy test
 
 ### Script / Automatisation
 
 - Greasemonkey
 - Iridium for YouTube
 - Redirector
+- Stylus
 
 ### Onglet
 
@@ -31,6 +44,7 @@
 - Tree Style Tab
 - Tab Counter
 - Firefox Multi-Account Containers
+- Simple Tab Groups <3
 
 ### Favori
 
@@ -44,6 +58,8 @@
 - uBlock Origin
 - anonymoX
 - QookieFix
+- Redirect AMP to HTML
+- ClearURLs *Flingue certaines redirections depuis les mails ofc*
 
 ### Analyse / Vie privée
 
@@ -55,6 +71,7 @@
 ### Lecture
 
 - EPUBReader
+- Bypass Paywalls
 
 ### Vérification d'information
 
