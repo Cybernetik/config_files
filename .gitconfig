@@ -1,0 +1,7 @@
+[user]
+	email = _____
+	name = _____
+[color]
+	ui = auto
+[core]
+	excludesfile = /_____/.gitignore_global
