@@ -12,8 +12,7 @@ echo "Player     -> rekkles"
 echo "riotgames  -> riotgames lpl lpl2 lck riotgamesbrazil riotgamesturkish"
 echo "Tournament -> ROFTV eswc dreamhackcs blizzard dotamajor ognesports"
 set /p s="Enter a stream : "
-echo "Can KO : 144p30 240p30 360p30 480p30 480p60 540p30 720p 720p30 720p60 1080p 1080p30 1080p60"
-echo "OK : source high medium low mobile audio worst best"
+%PATH_STREAMLINK% twitch.tv/%s%
 set /p q="Enter a quality : "
 echo "Stream -> %s% quality -> %q%"
 start "stream %s% en %q%" %PATH_STREAMLINK% twitch.tv/%s% %q%
