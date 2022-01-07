@@ -24,6 +24,10 @@ Indent Rainbow https://plugins.jetbrains.com/plugin/13308-indent-rainbow
 
 Statistic https://plugins.jetbrains.com/plugin/4509-statistic
 
+Makefile Language https://plugins.jetbrains.com/plugin/9333-makefile-language
+
+Yamllint https://plugins.jetbrains.com/plugin/15349-yamllint
+
 Nyan Progress Bar https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar
 
 Mario Progress Bar https://plugins.jetbrains.com/plugin/14708-mario-progress-bar
