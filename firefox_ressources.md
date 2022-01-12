@@ -37,6 +37,7 @@
 - Iridium for YouTube
 - Redirector
 - Stylus
+- uBlacklist : https://addons.mozilla.org/fr/firefox/addon/ublacklist/
 
 ### Onglet
 
