@@ -2,7 +2,7 @@
 
 ### Accessibilité
 
-- UnicornPass *L'essayer, c'est l'adopter !*
+- [UnicornPass](https://addons.mozilla.org/fr/firefox/addon/unicornpass/) *L'essayer, c'est l'adopter !*
 - HTML Content Blocker
 - Hide Fixed Elements
 - I don't care about cookies *Obligatoire depuis la RGPD*
@@ -15,6 +15,10 @@
 - Tab Counter
 - Flagfox
 - Envify
+
+### Recherche
+
+- [uBlacklist](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
 
 ### Dev
 
